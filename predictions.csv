@@ -1,4 +1,4 @@
-,customer_id,churn,churn_chance
+,customer_id,churn,no_churn
 189,0305-SQECB,No,0.83
 6423,9095-HFAFX,Yes,0.54
 1504,2208-NQBCT,No,0.83
